@@ -1,0 +1,7 @@
+﻿  FOOD_delivery_project.cpp
+C:\Users\Jumanazar\Desktop\FOOD_delivery_proiect\FOOD_delivery_project.cpp(347,34): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jumanazar\Desktop\FOOD_delivery_proiect\FOOD_delivery_project.cpp(366,37): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jumanazar\Desktop\FOOD_delivery_proiect\FOOD_delivery_project.cpp(700,11): warning C4101:  'nume_utilizator': unreferenced local variable
+C:\Users\Jumanazar\Desktop\FOOD_delivery_proiect\FOOD_delivery_project.cpp(838,28): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jumanazar\Desktop\FOOD_delivery_proiect\FOOD_delivery_project.cpp(322): warning C4715:  'RegistruProduse::cautare_dupa_denumire_produs': not all control paths return a value
+  FOOD_delivery_proiect.vcxproj -> C:\Users\Jumanazar\Desktop\FOOD_delivery_proiect\Debug\FOOD_delivery_proiect.exe
